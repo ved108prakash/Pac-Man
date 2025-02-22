@@ -7,10 +7,6 @@ This is a simple Pacman game implemented using Python and Pygame. The game featu
 
 Classic Pacman gameplay
 
-Multiple levels with increasing difficulty
-
-AI-controlled ghosts
-
 Scoring system
 
 Sound effects and animations
